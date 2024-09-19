@@ -11,18 +11,18 @@ export const PROJECTS = [
   {
     title: "E-Commerce Website",
     image: project1,
-    link: "https://github.com/Nithinlinga/eCommerce-Product-Showcase-Using-MERN-Stack",
+    link: "https://github.com/poojacharupalli/ecommerce-website-using-mern-stack.git",
     description:
       "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB","Bootstrap"],
   },
   {
-    title: "Student Result Management System",
+    title: "Backend Routing for Blog Website using Express",
     image: project2,
-    link:"https://github.com/Nithinlinga/Student-Result-Management-System",
+    link:"https://github.com/poojacharupalli/Backend-routing-for-blog-website.git",
     description:
-      "An application which mainly aimed for administration, faculties and the students at the University. The adm inistration is responsible for overseeing different areas of the university, such as managing student marks and grades records and academic results.",
-    technologies: ["HTML", "CSS", "JavaScript", "MySql"],
+      "Developed a Backend Application to control routing preocess through Express for a blog website like creating post, comment, liking and unliking the posts",
+    technologies: ["JavaScript", "MongoDB", "Express"],
   },
   {
     title: "Portfolio Website",
